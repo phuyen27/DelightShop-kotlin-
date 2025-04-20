@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PhamThiPhuongUyen_DelightShop</string>
+    <string name="intro_title">
+        Welcome to <font color="#FF0000">Delight</font>\n
+        Your <font color="#FF0000">shopping paradise </font>with many attractive offers
+    </string>
+
+    <string name="intro_sub_title">
+        Sign in to explore our unique and festive Christmas collection.
+       Dont have an account yet? Register now and enjoy a smooth and secure shopping experience
+    </string>
+
+    <string name="btnIntro">
+        "Lets shop"
+    </string>
+
+    <string name="sign">
+        "Already have an account?"
+    </string>
+</resources>

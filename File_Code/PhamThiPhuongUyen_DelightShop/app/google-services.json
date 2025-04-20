@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785922639012",
+    "project_id": "phamthiphuonguyendelightshop",
+    "storage_bucket": "phamthiphuonguyendelightshop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785922639012:android:3cdb591cf20656a9a01231",
+        "android_client_info": {
+          "package_name": "com.example.phamthiphuonguyen_delightshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7V6I8kWNSmQtDQAVjXu1aB3WRbP2bt10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
